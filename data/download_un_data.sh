@@ -10,7 +10,8 @@
 # 	https://comtrade.un.org/data/doc/api/#DataAvailabilityRequests
 #
 # NOTE:
-#   - The API has QPS control and is very fragile.
+#   - The API has QPS control and is very fragile:
+#     https://comtrade.un.org/data/doc/api/bulk/
 #   - We will need to sleep some seconds between the downloads to
 #     avoid overloading the site.
 #   - It takes super long (>24 hours) to pull down all data, and for
