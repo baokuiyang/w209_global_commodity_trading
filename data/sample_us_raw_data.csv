@@ -1,0 +1,501 @@
+pfCode,yr,period,periodDesc,aggrLevel,IsLeaf,rgCode,rgDesc,rtCode,rtTitle,rt3ISO,ptCode,ptTitle,pt3ISO,ptCode2,ptTitle2,pt3ISO2,cstCode,cstDesc,motCode,motDesc,cmdCode,cmdDescE,qtCode,qtDesc,qtAltCode,qtAltDesc,TradeQuantity,AltQuantity,NetWeight,GrossWeight,TradeValue,CIFValue,FOBValue,estCode
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,32,Argentina,ARG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,162740040,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,32,Argentina,ARG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,264762907,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,36,Australia,AUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,878857024,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,36,Australia,AUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1184835821,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,40,Austria,AUT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,557036933,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,40,Austria,AUT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,264866693,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,40,Austria,AUT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,261613,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,44,Bahamas,BHS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,204195081,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,346419381,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,44,Bahamas,BHS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4541509,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,48,Bahrain,BHR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,32975147,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,48,Bahrain,BHR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,260967224,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,50,Bangladesh,BGD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,52059111,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,50,Bangladesh,BGD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18484511,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,51,Armenia,ARM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1323910,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,51,Armenia,ARM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2167996,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,52,Barbados,BRB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5605043,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,52,Barbados,BRB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,45255171,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1065164152,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,524649729,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,56,Belgium,BEL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7119911,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,60,Bermuda,BMU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,14087966,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,60,Bermuda,BMU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,74305225,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,64,Bhutan,BTN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,61642,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,64,Bhutan,BTN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,60227,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10982702,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,68,Bolivia (Plurinational State of),BOL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10247920,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2937608,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,70,Bosnia Herzegovina,BIH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,43774,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,72,Botswana,BWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2258580,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,72,Botswana,BWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15132279,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,72,Botswana,BWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15840,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2552810143,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1018402274,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,76,Brazil,BRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,72584,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,84,Belize,BLZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6830713,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,84,Belize,BLZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,36761285,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,67414,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,86,Br. Indian Ocean Terr.,IOT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,552350,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,755207,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,90,Solomon Isds,SLB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8136324,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3379559,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,92,Br. Virgin Isds,VGB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,39879440,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11168829,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,96,Brunei Darussalam,BRN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10463892,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,100,Bulgaria,BGR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,29472937,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,100,Bulgaria,BGR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12777660,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,104,Myanmar,MMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,416314,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,104,Myanmar,MMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6452231,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,108,Burundi,BDI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,17791,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,108,Burundi,BDI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,396567,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,112,Belarus,BLR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3842051,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,112,Belarus,BLR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5881182,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,116,Cambodia,KHM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25192378,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,116,Cambodia,KHM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4986679,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,120,Cameroon,CMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10390629,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,120,Cameroon,CMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2320388,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,20616919615,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9629836683,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,124,Canada,CAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,362950477,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,240749,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1341272,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,132,Cabo Verde,CPV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,158307,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16174394,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,136,Cayman Isds,CYM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,213441693,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,141768,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,140,Central African Rep.,CAF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3340598,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,21314973,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,144,Sri Lanka,LKA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7775555,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,148,Chad,TCD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,242442,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,148,Chad,TCD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3600604,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,152,Chile,CHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,401034962,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,152,Chile,CHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,607655984,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,152,Chile,CHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18567,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8590536544,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1153516479,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,156,China,CHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1237272,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,72060,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,162,Christmas Isds,CXR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,85517,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,41857,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,166,Cocos Isds,CCK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4460,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,170,Colombia,COL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,592312916,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,170,Colombia,COL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,487059479,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,174,Comoros,COM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6886,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,174,Comoros,COM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24609,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,178,Congo,COG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2350092,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,178,Congo,COG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3318405,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,178,Congo,COG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,116827,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,823490,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4748313,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,180,Dem. Rep. of the Congo,COD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,278476,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,184,Cook Isds,COK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,51563,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,184,Cook Isds,COK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1051448,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,188,Costa Rica,CRI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,198316413,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,188,Costa Rica,CRI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,236334301,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,191,Croatia,HRV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8579295,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,191,Croatia,HRV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,14304267,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,191,Croatia,HRV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,14560,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,192,Cuba,CUB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7151989,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,192,Cuba,CUB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1031178,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,196,Cyprus,CYP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24810218,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,196,Cyprus,CYP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7123809,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,374299734,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,203,Czechia,CZE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,139381790,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,204,Benin,BEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,110400,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,204,Benin,BEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3303385,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,208,Denmark,DNK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,199304725,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,208,Denmark,DNK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,195059564,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,208,Denmark,DNK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,20655989,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,212,Dominica,DMA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1003976,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,212,Dominica,DMA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,23688296,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,245952885,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,346845898,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,214,Dominican Rep.,DOM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,41125,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,218,Ecuador,ECU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,280981827,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,218,Ecuador,ECU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,131729755,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,222,El Salvador,SLV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,110890165,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,319189944,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,222,El Salvador,SLV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5840,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5285716,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,226,Equatorial Guinea,GNQ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3171538,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,231,Ethiopia,ETH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,96803869,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,231,Ethiopia,ETH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25523689,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,232,Eritrea,ERI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24883,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,232,Eritrea,ERI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,529175,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,233,Estonia,EST,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,23498306,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,233,Estonia,EST,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3375934,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,78709,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,234,Faeroe Isds,FRO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,132441,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,36415,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,238,Falkland Isds (Malvinas),FLK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,21920,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,242,Fiji,FJI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3112299,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,242,Fiji,FJI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10870447,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,130887377,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,106274447,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,246,Finland,FIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4200,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5152526794,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1278929034,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,251,France,FRA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,42511,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,258,French Polynesia,PYF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24469872,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,258,French Polynesia,PYF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9908562,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,26231,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,260,Fr. South Antarctic Terr.,ATF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,28082,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,262,Djibouti,DJI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,28335091,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,262,Djibouti,DJI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7487142,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,266,Gabon,GAB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6382057,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,266,Gabon,GAB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2173960,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,268,Georgia,GEO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5491772,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,268,Georgia,GEO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1232933,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,270,Gambia,GMB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1068229,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,270,Gambia,GMB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,344812,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,275,State of Palestine,PSE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,558042,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7503956651,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1938169495,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,276,Germany,DEU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2642930,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,288,Ghana,GHA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9858925,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,288,Ghana,GHA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,27287636,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,288,Ghana,GHA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,21690,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,292,Gibraltar,GIB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6428537,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,292,Gibraltar,GIB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,373163760,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,296,Kiribati,KIR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,352950,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,296,Kiribati,KIR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,787422,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,300,Greece,GRC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,48988071,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,300,Greece,GRC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,51548941,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,304,Greenland,GRL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2433085,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,304,Greenland,GRL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,762390,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,308,Grenada,GRD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1396960,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,308,Grenada,GRD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18238066,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,320,Guatemala,GTM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,46269959,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,631565492,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,320,Guatemala,GTM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,115693,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,324,Guinea,GIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3740643,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,324,Guinea,GIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12929737,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,324,Guinea,GIN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,294827,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,328,Guyana,GUY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13914040,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,328,Guyana,GUY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,65058096,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,328,Guyana,GUY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,214337,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,332,Haiti,HTI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3155607,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,332,Haiti,HTI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,262114483,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,473,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,334,Heard Island and McDonald Islands,HMD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6002,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,245230,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,336,Holy See (Vatican City State),VAT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,17806,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,340,Honduras,HND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,57906847,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,340,Honduras,HND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,319439939,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,340,Honduras,HND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,54847,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2247655567,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,344,"China, Hong Kong SAR",HKG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,492505577,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,348,Hungary,HUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,296279503,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,348,Hungary,HUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,70927426,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,352,Iceland,ISL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,38772937,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,352,Iceland,ISL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,107405366,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,360,Indonesia,IDN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,153901079,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,360,Indonesia,IDN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,94988947,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,368,Iraq,IRQ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25119956,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,38119782,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,368,Iraq,IRQ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4458,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,372,Ireland,IRL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4950252047,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,372,Ireland,IRL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,225119179,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,376,Israel,ISR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1373450654,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,376,Israel,ISR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,341072327,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,376,Israel,ISR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16236,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,381,Italy,ITA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1933608067,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,381,Italy,ITA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,626927849,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,381,Italy,ITA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,68900,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4654810,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5532085,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,384,Côte d'Ivoire,CIV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16838,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,388,Jamaica,JAM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22648127,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,388,Jamaica,JAM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,151699032,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,392,Japan,JPN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4332511263,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,392,Japan,JPN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1311903906,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,392,Japan,JPN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4028462,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15513371,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,398,Kazakhstan,KAZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7532617,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,400,Jordan,JOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,69717998,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,400,Jordan,JOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,86871522,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,404,Kenya,KEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15421017,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,404,Kenya,KEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,28760746,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,404,Kenya,KEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1459199895,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,849557639,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,410,Rep. of Korea,KOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,100777,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,414,Kuwait,KWT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,148845310,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,414,Kuwait,KWT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,95531778,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,304492,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1592313,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,417,Kyrgyzstan,KGZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,29118,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3552570,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,388625,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,418,Lao People's Dem. Rep.,LAO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,27600,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,422,Lebanon,LBN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25848977,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,20388122,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,422,Lebanon,LBN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2933,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,426,Lesotho,LSO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,397245,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,426,Lesotho,LSO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,21484,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,428,Latvia,LVA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16651182,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,428,Latvia,LVA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,49664345,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,430,Liberia,LBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,205925,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,430,Liberia,LBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6505836,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,434,Libya,LBY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,23992,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,434,Libya,LBY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6347273,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,440,Lithuania,LTU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,23591462,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9551804,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,440,Lithuania,LTU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12064,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,442,Luxembourg,LUX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,143273897,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,442,Luxembourg,LUX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,58628303,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,50809134,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,446,"China, Macao SAR",MAC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,112205789,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,450,Madagascar,MDG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2155781,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,450,Madagascar,MDG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1534048,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,454,Malawi,MWI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,57613,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,454,Malawi,MWI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4016602,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,732573988,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,246807228,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,458,Malaysia,MYS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24104,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,462,Maldives,MDV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1316648,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,462,Maldives,MDV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,859960,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,466,Mali,MLI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,639680,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,466,Mali,MLI,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1873260,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,470,Malta,MLT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12086509,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,470,Malta,MLT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3191446,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,478,Mauritania,MRT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1689928,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,478,Mauritania,MRT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1499476,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,480,Mauritius,MUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2190828,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,480,Mauritius,MUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3736351,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,484,Mexico,MEX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9065093653,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,484,Mexico,MEX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7446670106,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,484,Mexico,MEX,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34287315,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1845590956,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,640455196,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,490,"Other Asia, nes",,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8400,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,496,Mongolia,MNG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13318283,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,496,Mongolia,MNG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1557349,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1238343,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,498,Rep. of Moldova,MDA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1306645,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,499,Montenegro,MNE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,273511,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,499,Montenegro,MNE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2297189,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,500,Montserrat,MSR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,217181,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,500,Montserrat,MSR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4534667,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,504,Morocco,MAR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,55228665,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,504,Morocco,MAR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,39489696,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,504,Morocco,MAR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15006,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,508,Mozambique,MOZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3453151,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,508,Mozambique,MOZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2762367,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,512,Oman,OMN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,77355157,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,512,Oman,OMN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,65913035,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,516,Namibia,NAM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,17767589,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,516,Namibia,NAM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34980644,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,520,Nauru,NRU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,48343,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,520,Nauru,NRU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,65763,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,524,Nepal,NPL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4079458,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,524,Nepal,NPL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11054124,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,524,Nepal,NPL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,26890,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6944952419,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,981932107,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,528,Netherlands,NLD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,92281,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,531,Curaçao,CUW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6014692,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22400164,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,531,Curaçao,CUW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2802,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,533,Aruba,ABW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12554071,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,533,Aruba,ABW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,29400444,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,533,Aruba,ABW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4550,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,123484018,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,534,Saint Maarten,SXM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34992334,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,540,New Caledonia,NCL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2435083,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,540,New Caledonia,NCL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13793997,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,548,Vanuatu,VUT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,48195,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,548,Vanuatu,VUT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1848391,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,554,New Zealand,NZL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,494306533,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,328837921,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,554,New Zealand,NZL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,32556,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,558,Nicaragua,NIC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15385659,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,74526188,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,558,Nicaragua,NIC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6565,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,562,Niger,NER,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,39734608,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,562,Niger,NER,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2435972,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,566,Nigeria,NGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,83221731,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,37993567,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,566,Nigeria,NGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,570,Niue,NIU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,48161,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,570,Niue,NIU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11710,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4405,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,574,Norfolk Isds,NFK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,896,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,579,Norway,NOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,282145337,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,579,Norway,NOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,203319499,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,579,Norway,NOR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22206,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,254696,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,583,FS Micronesia,FSM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,6424337,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2548755,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,584,Marshall Isds,MHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10636510,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,585,Palau,PLW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,83020,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,585,Palau,PLW,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2631655,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,586,Pakistan,PAK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,40433505,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,586,Pakistan,PAK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,61592693,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,591,Panama,PAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,154838159,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,591,Panama,PAN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,309777516,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4189668,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,598,Papua New Guinea,PNG,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4422292,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,600,Paraguay,PRY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2670226,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,15010325,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,600,Paraguay,PRY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11931,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,604,Peru,PER,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,155562955,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,604,Peru,PER,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,254878865,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,608,Philippines,PHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,252871068,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,608,Philippines,PHL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,132064350,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,612,Pitcairn,PCN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12663,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,612,Pitcairn,PCN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2901,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,421391822,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,616,Poland,POL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,212863943,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,620,Portugal,PRT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,141121813,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,620,Portugal,PRT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,82667540,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,130393,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,624,Guinea-Bissau,GNB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,54770,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,82083,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,626,Timor-Leste,TLS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,190115,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,634,Qatar,QAT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,103315848,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,634,Qatar,QAT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,200376446,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,642,Romania,ROU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,89853844,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,642,Romania,ROU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11822086,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,642,Romania,ROU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22938,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,245198939,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,45303280,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,643,Russian Federation,RUS,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,26000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,646,Rwanda,RWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,280135,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,646,Rwanda,RWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,468842,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,646,Rwanda,RWA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,44000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,654,Saint Helena,SHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,286866,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,654,Saint Helena,SHN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,12548,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16041062,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,659,Saint Kitts and Nevis,KNA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,24969712,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,660,Anguilla,AIA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,406237,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,660,Anguilla,AIA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11737120,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2267767,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,662,Saint Lucia,LCA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,108147619,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3650,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,666,Saint Pierre and Miquelon,SPM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5718,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,529402,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,670,Saint Vincent and the Grenadines,VCT,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9430319,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,674,San Marino,SMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,188084,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,674,San Marino,SMR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18282,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,599060,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,678,Sao Tome and Principe,STP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,80256,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,263490579,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,588489264,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,682,Saudi Arabia,SAU,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,62718,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,686,Senegal,SEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4576750,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,686,Senegal,SEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11174645,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,686,Senegal,SEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,35175,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,688,Serbia,SRB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11735764,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,688,Serbia,SRB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,19426814,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,690,Seychelles,SYC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,854844,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,690,Seychelles,SYC,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,725975,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3434535,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,694,Sierra Leone,SLE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4398459,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,938176450,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,632112555,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,699,India,IND,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,648894,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3887408092,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1278341391,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,702,Singapore,SGP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13127,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,703,Slovakia,SVK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,52759403,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,703,Slovakia,SVK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16770725,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,318014869,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,72237899,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,704,Viet Nam,VNM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,44246,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,705,Slovenia,SVN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,36550455,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,705,Slovenia,SVN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16339197,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,706,Somalia,SOM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,11782,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,706,Somalia,SOM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3184050,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,710,South Africa,ZAF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,122337909,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,230719731,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,710,South Africa,ZAF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,16500,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,319329,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2040986,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,716,Zimbabwe,ZWE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10938,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,780325013,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,724,Spain,ESP,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,443983553,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,728,South Sudan,SSD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3643,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,728,South Sudan,SSD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,477724,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,729,Sudan,SDN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,19809,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,729,Sudan,SDN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1041300,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,732,Western Sahara,ESH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,265357,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,732,Western Sahara,ESH,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,212157,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,740,Suriname,SUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7910739,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,740,Suriname,SUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,23541577,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,748,Eswatini,SWZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,301480,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,748,Eswatini,SWZ,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,450987,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,752,Sweden,SWE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,411054825,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,752,Sweden,SWE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,245750179,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7284662589,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,442791843,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,757,Switzerland,CHE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,760,Syria,SYR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,313270,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,760,Syria,SYR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4552424,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,760,Syria,SYR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,707994,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,762,Tajikistan,TJK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,206083,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,762,Tajikistan,TJK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,150601,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,762,Tajikistan,TJK,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,18907,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,512150025,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,254806586,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,764,Thailand,THA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7500,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,768,Togo,TGO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,145317,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,768,Togo,TGO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4276629,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,768,Togo,TGO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,46103,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,772,Tokelau,TKL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1206297,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,772,Tokelau,TKL,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,266468,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,776,Tonga,TON,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,439819,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,776,Tonga,TON,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3670950,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,126325488,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,183101682,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,780,Trinidad and Tobago,TTO,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,40000,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1161255643,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,715853647,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,784,United Arab Emirates,ARE,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,31702,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,788,Tunisia,TUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,17272551,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,788,Tunisia,TUN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13088319,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,506111874,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,792,Turkey,TUR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,205801410,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2041151,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,795,Turkmenistan,TKM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,146017,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3696855,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,796,Turks and Caicos Isds,TCA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,145493682,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,798,Tuvalu,TUV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,13418,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,798,Tuvalu,TUV,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,42939,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,800,Uganda,UGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,10784575,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,800,Uganda,UGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2440165,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,800,Uganda,UGA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,112923,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,804,Ukraine,UKR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,38296266,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,37650157,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,804,Ukraine,UKR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,30164,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,807,North Macedonia,MKD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,2883494,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,807,North Macedonia,MKD,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1287269,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,818,Egypt,EGY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,39068676,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,818,Egypt,EGY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,53774599,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,7228361871,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3094206986,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,826,United Kingdom,GBR,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,78790238,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4460694,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8611121,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,834,United Rep. of Tanzania,TZA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,48196,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,549657,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,4960868,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,854,Burkina Faso,BFA,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1543140,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,858,Uruguay,URY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,20747157,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,858,Uruguay,URY,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,69931537,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22128028,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34737096,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,860,Uzbekistan,UZB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,25723,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,862,Venezuela,VEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9261166,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,862,Venezuela,VEN,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,34630341,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,876,Wallis and Futuna Isds,WLF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,8780,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,876,Wallis and Futuna Isds,WLF,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,22904,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,882,Samoa,WSM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,125861,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,882,Samoa,WSM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,3070185,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,887,Yemen,YEM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,67322,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,887,Yemen,YEM,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,9917852,,,0
+H5,2019,2019,2019,2,0,1,Import,842,USA,USA,894,Zambia,ZMB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,1240098,,,0
+H5,2019,2019,2019,2,0,2,Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,5867414,,,0
+H5,2019,2019,2019,2,0,3,Re-Export,842,USA,USA,894,Zambia,ZMB,,,,,,,,99,Commodities not specified according to kind,1,No Quantity,0,,,,0,,26619,,,0
