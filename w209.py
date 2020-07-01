@@ -71,12 +71,21 @@ def getFilteredDF():
             "OK-" + beginYear + "#" + endYear + "#" + rCountryId + "#" + pCountryId + "#" + commodityId]
 
 
+# Convert '{ k1: v1, k2: v2, ...}' to [{key:k1, value:v1}, {key:k2, value:v2}, ...]'
+def convertToArray(dict):
+    result = []
+    for k, v in dict.items():
+        result.append({'key': k, 'value': v})
+    return json.dumps(result)
+
+
 @app.route('/ByYear')
 def ByYear():
     (df, err_msg) = getFilteredDF() 
     #print(err_msg + " ### " + str(df.shape))
     if df is not None:
-        return df[["yr", "TradeValue"]].groupby(["yr"]).sum()["TradeValue"].to_json()
+        df_dict = df[["yr", "TradeValue"]].groupby(["yr"]).sum()["TradeValue"].to_json()
+		return convertToArray(df_dict)
     else:    
         return err_msg   
 
@@ -84,7 +93,8 @@ def ByYear():
 def ByCommodity():
     (df, err_msg) = getFilteredDF() 
     if df is not None:
-        return df[["cmdCode", "TradeValue"]].groupby(["cmdCode"]).sum()["TradeValue"].to_json()
+        df_dict = df[["cmdCode", "TradeValue"]].groupby(["cmdCode"]).sum()["TradeValue"].to_json()
+		return convertToArray(df_dict)
     else:    
         return err_msg    
 
@@ -92,7 +102,8 @@ def ByCommodity():
 def ByRCountry():
     (df, err_msg) = getFilteredDF() 
     if df is not None:
-        return df[["rtCode", "TradeValue"]].groupby(["rtCode"]).sum()["TradeValue"].to_json()
+        df_dict = df[["rtCode", "TradeValue"]].groupby(["rtCode"]).sum()["TradeValue"].to_json()
+		return convertToArray(df_dict)
     else:    
         return err_msg   
 
@@ -100,7 +111,8 @@ def ByRCountry():
 def ByPCountry():
     (df, err_msg) = getFilteredDF() 
     if df is not None:
-        return df[["ptCode", "TradeValue"]].groupby(["ptCode"]).sum()["TradeValue"].to_json()
+        df_dict = df[["ptCode", "TradeValue"]].groupby(["ptCode"]).sum()["TradeValue"].to_json()
+		return convertToArray(df_dict)
     else:    
         return err_msg    
 
