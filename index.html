@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <title>Global Commodity Trading</title>
+    <meta charset="utf-8" http-equiv="encoding">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- Bootstrap cdn -->
+    <!-- Latest compiled and minified CSS -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
+    <!-- Optional theme -->
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap-theme.min.css" integrity="sha384-rHyoN1iRsVXV4nD0JutlnGaslCJuC7uwjduW9SVrLvRYooPp2bWYgmgJQIXwl/Sp" crossorigin="anonymous">
+    <link rel="stylesheet" href="./css/main.css">
+    <!-- Crossfilter cdn -->
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
+    <!-- D3 V4 -->
+    <script src="https://d3js.org/d3.v4.min.js"></script>
+    <!-- JS to do the tab switch -->
+    <script src="js/tab.js"></script>
+    <!-- common util JSs -->
+    <script src="js/commodity_id_map.js"></script>
+    <script src="js/country_id_map.js"></script>
+    <script src="js/trade_type_map.js"></script>
+</head>
+
+<body>
+    <center>
+        <div class="header">
+            <h1> Global Commodity Trading </h1>
+            <i>
+                <p>global commodity trading statistics from 1988 to 2019</p>
+            </i>
+        </div>
+        <div class="tab">
+            <button class="tablinks active" onclick="openTab(event, 'GlobalView')">Global View</button>
+            <button class="tablinks" onclick="openTab(event, 'CountryView')">Country View</button>
+            <button class="tablinks" onclick="openTab(event, 'CommodityView')">Commodity View</button>
+            <button class="tablinks" onclick="openTab(event, 'CountryPairView')">Country Pair View</button>
+            <button class="tablinks" onclick="openTab(event, 'AboutView')">About</button>
+        </div>
+        <div id="GlobalView" class="tabcontent defaultTab">
+            <h3>GlobalView Area</h3>
+            <div id="GlobalViewChart">
+            </div>
+        </div>
+        <div id="CountryView" class="tabcontent">
+            <h3>CountryView Area</h3>
+            <div id="GlobalViewChart">
+            </div>
+        </div>
+        <div id="CommodityView" class="tabcontent">
+            <h3>CommodityView Area</h3>
+            <div id="GlobalViewChart">
+            </div>
+        </div>
+        <div id="CountryPairView" class="tabcontent">
+            <h3>CountryPairView Area</h3>
+            <div id="GlobalViewChart">
+            </div>
+        </div>
+        <div id="AboutView" class="tabcontent">
+            <h3>W209 Final Project, Summer 2020</h3>
+            <p><b>How to use the site</b></p>
+            <p>TODO</p>
+            <p><b>About the data</b></p>
+            <p>TODO</p>
+        </div>
+        <!-- Rendering JS -->
+        <script src="js/global_view.js"></script>
+        <script src="js/country_view.js"></script>
+        <script src="js/commodity_view.js"></script>
+        <script src="js/country_pair_view.js"></script> 
+    </center>
+</body>
+
+</html>

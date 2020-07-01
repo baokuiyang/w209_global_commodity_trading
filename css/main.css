@@ -1,0 +1,62 @@
+body {font-family: Arial;}
+
+h1 {
+    font-size: 60px;
+}
+
+.header {
+  padding: 30px;
+  text-align: center;
+  background-image: url("../static/header2.jpg");
+  background-repeat: repeat;
+  background-position: center;
+
+  background-color: #1abc9c; 
+  color: white; 
+
+  font-size: 30px;
+  height: 200px; 
+}
+
+/* Style the tab */
+.tab {
+  overflow: hidden;
+  border: 1px solid #ccc;
+  background-color: #f1f1f1;
+}
+
+/* Style the buttons inside the tab */
+.tab button {
+  background-color: inherit;
+  float: center;
+  border: none;
+  outline: none;
+  cursor: pointer;
+  padding: 14px 20px;
+  transition: 0.3s;
+  font-size: 20px;
+}
+
+/* Change background color of buttons on hover */
+.tab button:hover {
+  background-color: #ddd;
+}
+
+/* Create an active/current tablink class */
+.tab button.active {
+  background-color: #ccc;
+}
+
+/* Style the tab content */
+.tabcontent {
+  display: none;
+  padding: 6px 12px;
+  border: 1px solid #ccc;
+  border-top: none;
+  width: 1600px;
+}
+
+.defaultTab {
+  display: block;
+}
+
