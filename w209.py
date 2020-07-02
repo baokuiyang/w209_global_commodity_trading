@@ -19,7 +19,21 @@ app = Flask(__name__)
 #
 #DATA_FILE_PATH = "./sample_data_1000_records_id_only.csv"
 DATA_FILE_PATH = "./all_merged_cl_ix_id_only.csv"
+
+print("Begin loading data at: " + DATA_FILE_PATH)
 tradeDF = pd.read_csv(DATA_FILE_PATH)
+print("Finished data loading, shape: " + str(tradeDF.shape))
+
+tradeDF_x_pCountry = tradeDF.groupby(["yr", "rgCode", "rtCode", "cmdCode"], as_index=False).sum()
+tradeDF_x_rCountry = tradeDF.groupby(["yr", "rgCode", "ptCode", "cmdCode"], as_index=False).sum()
+tradeDF_x_yr = tradeDF.groupby(["rgCode", "rtCode", "ptCode", "cmdCode"], as_index=False).sum()
+tradeDF_x_cmdCode = tradeDF.groupby(["yr", "rgCode", "rtCode", "ptCode"], as_index=False).sum()
+tradeDF_x_rgCode = tradeDF.groupby(["yr", "rtCode", "ptCode", 'cmdCode'], as_index=False).sum()
+print("tradeDF_x_pCountry shape: " + str(tradeDF_x_pCountry.shape))
+print("tradeDF_x_rCountry shape: " + str(tradeDF_x_rCountry.shape))
+print("tradeDF_x_yr shape: " + str(tradeDF_x_yr.shape))
+print("tradeDF_x_cmdCode shape: " + str(tradeDF_x_cmdCode.shape))
+print("tradeDF_x_rgCode shape: " + str(tradeDF_x_rgCode.shape))
 
 # Filter the data frame with following parameters.
 #   - beginYear, first year in year range.
@@ -57,17 +71,31 @@ def getFilteredDF():
         return [None, "tradeType must be specified (1: Import, 2:Export)!"]
     tradeType = request.args.get('tradeType') 
 
-    selected = ((tradeDF.yr >= int(beginYear)) & (tradeDF.yr <= int(endYear)))
-    if rCountryId != "all":
-        selected = selected & (tradeDF.rtCode == int(rCountryId))
-    if pCountryId != "all":
-        selected = selected & (tradeDF.ptCode == int(pCountryId)) 
-    if commodityId != "all":
-        selected = selected & (tradeDF.cmdCode == int(commodityId)) 
-    if tradeType != "all":
-        selected = selected & (tradeDF.rgCode == int(tradeType)) 
+	# Find the best data set to use, this will make it run 3x~40X faster.
+    if pCountryId == 'all':
+        target_df = tradeDF_x_pCountry
+    elif rCountryId == 'all':
+        target_df = tradeDF_x_rCountry
+    elif commodityId == 'all':
+        target_df = tradeDF_x_cmdCode
+    elif beginYear <= 1988 and endYear >= 2019:
+        target_df = tradeDF_x_yr
+    elif tradetype == 'all':
+        target_df = tradeDF_x_rgCode
+    else:
+        target_df = tradeDF
 
-    return [tradeDF[selected], 
+    selected = ((target_df.yr >= int(beginYear)) & (target_df.yr <= int(endYear)))
+    if rCountryId != "all":
+        selected = selected & (target_df.rtCode == int(rCountryId))
+    if pCountryId != "all":
+        selected = selected & (target_df.ptCode == int(pCountryId)) 
+    if commodityId != "all":
+        selected = selected & (target_df.cmdCode == int(commodityId)) 
+    if tradeType != "all":
+        selected = selected & (target_df.rgCode == int(tradeType)) 
+
+    return [target_df[selected], 
             "OK-" + beginYear + "#" + endYear + "#" + rCountryId + "#" + pCountryId + "#" + commodityId]
 
 
