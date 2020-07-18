@@ -16,6 +16,10 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/crossfilter/1.3.12/crossfilter.min.js"></script>
     <!-- D3 V4 -->
     <script src="https://d3js.org/d3.v4.min.js"></script>
+    <script src="https://d3js.org/d3-color.v1.min.js"></script>
+    <script src="https://d3js.org/d3-interpolate.v1.min.js"></script>
+    <script src="https://d3js.org/d3-scale-chromatic.v1.min.js"></script>
+
     <!-- JS to do the tab switch -->
     <script src="js/tab.js"></script>
     <!-- common util JSs -->
@@ -33,32 +37,77 @@
             </i>
         </div>
         <div class="tab">
-            <button class="tablinks active" onclick="openTab(event, 'GlobalView')">Global View</button>
+            <button class="tablinks " onclick="openTab(event, 'GlobalView')">Global View</button>
             <button class="tablinks" onclick="openTab(event, 'CountryView')">Country View</button>
             <button class="tablinks" onclick="openTab(event, 'CommodityView')">Commodity View</button>
             <button class="tablinks" onclick="openTab(event, 'CountryPairView')">Country Pair View</button>
-            <button class="tablinks" onclick="openTab(event, 'AboutView')">About</button>
+            <button class="tablinks active" onclick="openTab(event, 'MicroView')">Micro View</button>
+            <button class="tablinks " onclick="openTab(event, 'AboutView')">About</button>
         </div>
-        <div id="GlobalView" class="tabcontent defaultTab">
-            <h3>GlobalView Area</h3>
+
+        <div id="GlobalView" class="tabcontent "> 
             <div id="GlobalViewChart">
+                <div class='tableauPlaceholder' id='viz1593927228271' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;Global_View&#47;GlobalView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Global_View&#47;GlobalView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;Global_View&#47;GlobalView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593927228271');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
         </div>
-        <div id="CountryView" class="tabcontent">
-            <h3>CountryView Area</h3>
-            <div id="GlobalViewChart">
+
+        <div id="CountryView" class="tabcontent"> 
+            <div id="CountryViewChart">
+                <div class='tableauPlaceholder' id='viz1593930751808' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_15938977029030&#47;CountryView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Country_View_15938977029030&#47;CountryView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_15938977029030&#47;CountryView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593930751808');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
         </div>
-        <div id="CommodityView" class="tabcontent">
-            <h3>CommodityView Area</h3>
-            <div id="GlobalViewChart">
+
+        <div id="CommodityView" class="tabcontent"> 
+            <div id="CommodityViewChart">
+                <div class='tableauPlaceholder' id='viz1593930886742' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Commodity_View&#47;CommodityView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Commodity_View&#47;CommodityView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Commodity_View&#47;CommodityView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593930886742');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
         </div>
-        <div id="CountryPairView" class="tabcontent">
-            <h3>CountryPairView Area</h3>
-            <div id="GlobalViewChart">
+
+        <div id="CountryPairView" class="tabcontent"> 
+            <div id="CountryPairViewChart">
+                <div class='tableauPlaceholder' id='viz1593932373271' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;country-pair-view&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CountryPairView&#47;country-pair-view' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;country-pair-view&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593932373271');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
             </div>
         </div>
+        <div id="MicroView" class="tabcontent defaultTab"> 
+            <div id="MicroViewSelectionArea">
+                <div class="col-xs-12 col-md-2"></div>
+                <div class="col-xs-12 col-md-2">
+                    <b>Reporting Country</b><br>
+                    <select name="ReportingCountry" id="s_rcountry" class="selector"> </select>
+                </div>
+                <div class="col-xs-12 col-md-2">
+                    <b>Partner Country</b><br>
+                    <select name="PartnerCountry" id="s_pcountry" class="selector">  </select>
+                </div>
+                <div class="col-xs-12 col-md-2">
+                    <b>Commodity</b><br>
+                    <select name="Commodity" id="s_commodity" class="selector">   </select>
+                </div> 
+                <div class="col-xs-12 col-md-2">
+                    <b>Import / Export</b><br>
+                    <select name="TradeType" id="s_trade_type" class="selector">  </select>
+                </div>
+                <div class="col-xs-12 col-md-2"></div>
+            </div>
+            <div id="svg_area" class="col-xs-12 col-md-12">
+                <!-- Timeline, take one row --> 
+                <h3><b><small>Trade Volume By Year (brush to select)</small></b></h3>
+                <div id="timeline"></div>  
+                <div class="col-xs-12 col-md-4"> 
+                    <b>Top Reporting Countries </b>  
+                    <div  id="top_r_cc"></div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <b>Top Partner Countries </b>  
+                    <div  id="top_p_cc"></div>
+                </div>
+                <div class="col-xs-12 col-md-4">
+                    <b>Top Commodities </b>  
+                    <div  id="top_cmd"></div>
+                </div>  
+            </div> 
+        </div>
+
         <div id="AboutView" class="tabcontent">
             <h3>W209 Final Project, Summer 2020</h3>
             <p><b>How to use the site</b></p>
@@ -66,11 +115,16 @@
             <p><b>About the data</b></p>
             <p>TODO</p>
         </div>
+
         <!-- Rendering JS -->
-        <script src="js/global_view.js"></script>
-        <script src="js/country_view.js"></script>
-        <script src="js/commodity_view.js"></script>
-        <script src="js/country_pair_view.js"></script> 
+            <script src="js/timeSeriesChart.js"></script>
+            <script src="js/micro_view.js"></script>
+        <!-- 
+            <script src="js/global_view.js"></script>
+            <script src="js/country_view.js"></script>
+            <script src="js/commodity_view.js"></script>
+            <script src="js/country_pair_view.js"></script> 
+        -->
     </center>
 </body>
 

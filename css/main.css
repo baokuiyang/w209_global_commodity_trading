@@ -3,7 +3,10 @@ body {font-family: Arial;}
 h1 {
     font-size: 60px;
 }
-
+h3 {
+  margin-top: 20px;
+  margin-bottom: -20px;
+}
 .header {
   padding: 30px;
   text-align: center;
@@ -53,10 +56,43 @@ h1 {
   padding: 6px 12px;
   border: 1px solid #ccc;
   border-top: none;
-  width: 1600px;
+  width: 1200px;
+  height: 800px; 
 }
 
 .defaultTab {
   display: block;
 }
 
+#svg_area {
+  float: left;
+}
+
+.selector {
+  width: 150px;
+}
+
+#subtitle {
+  text-align: center;
+}
+
+#timeline .line {
+  fill: none;
+  stroke: #000;
+  stroke-width: 1.5px;
+}
+
+#timeline .area {
+  /*fill: #969696;*/
+  fill: steelblue;
+}
+
+#timeline .attention {
+  background: yellow;
+  margin: -4px;
+  padding: 4px;
+}
+
+.rc_bar {
+  fill: blue;
+}
