@@ -238,7 +238,7 @@ def findTop(DF):
     yr_v_map = getYearVolume(DF)
 
     response = []
-    for i in range(1998, 2020):
+    for i in range(1988, 2020):
         yr = i
 
         value = "0"

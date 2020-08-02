@@ -34,10 +34,10 @@ s_partner_country.addEventListener("change", processSelectionEvent);
 /* Populate Commodities */
 var s_commodity = document.getElementById("s_commodity");
 AddAllAsAnOption(s_commodity);
-Object.keys(IdToCommodity).forEach(key => { 
+Object.keys(CommodityToId).sort().forEach(key => { 
     var opt = document.createElement("option");
-    opt.value = key;
-    opt.innerHTML = key + " - " +  IdToCommodity[key]; 
+    opt.value = CommodityToId[key];
+    opt.innerHTML = key; 
     s_commodity.appendChild(opt);
 }); 
 s_commodity.addEventListener("change", processSelectionEvent);
@@ -61,10 +61,10 @@ function getSelectedValue(selector) {
 
 /* Handle selection event. */
 function processSelectionEvent(_) { 
-    console.log(getSelectedValue(s_reporting_country));
-    console.log(getSelectedValue(s_partner_country));
-    console.log(getSelectedValue(s_commodity));  
-    console.log(getSelectedValue(s_trade_type)); 
+    //console.log(getSelectedValue(s_reporting_country));
+    //console.log(getSelectedValue(s_partner_country));
+    //console.log(getSelectedValue(s_commodity));  
+    //console.log(getSelectedValue(s_trade_type)); 
 
     drawCharts(getSelectedValue(s_reporting_country), 
                getSelectedValue(s_partner_country),
@@ -95,6 +95,26 @@ function mapToSortedArray(the_map) {
     }
     return kv_a.sort(function(e1, e2) {return e2.value - e1.value;}).slice(0, 20); 
 }
+
+/* Format trade volume either using T or B as unit */
+function formatVolume_2digits(value) {
+    var T_usd = 1000000000000;
+    var B_usd = 1000000000;
+    if (value * 100 < T_usd) {
+        return d3.format("$.02")(value/B_usd) + "B";
+    }  
+    return d3.format("$.02")(value/T_usd) + "T";
+}
+
+function formatVolume_4digits(value) {
+    var T_usd = 1000000000000;
+    var B_usd = 1000000000;
+    if (value * 100 < T_usd) {
+        return d3.format("$.04")(value/B_usd) + "B";
+    }  
+    return d3.format("$.04")(value/T_usd) + "T";
+}
+
  
 /* Draw Charts */
 function drawCharts(reporting_country, partner_country, commodity, trade_type) {
@@ -186,7 +206,12 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
                 .attr("width", function (d) {
                     return x(d.value);
                 })
-                .style("fill", function(d) {return colorScale(cutLongKey(d.key));});
+                .style("fill", function(d) {return colorScale(cutLongKey(d.key));})
+                .on("mouseover", function(d, i) {
+                    d3.select(this).transition().duration('50').attr('opacity', '0.85');  
+                }).on("mouseout", function(d, i) { 
+                    d3.select(this).transition().duration('50').attr('opacity', '1.0');  
+                });;
 
             //add a value label to the right of each bar
             bars.append("text")
@@ -200,7 +225,7 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
                     return x(d.value) + 3;
                 })
                 .text(function (d) {
-                    return d3.format("$.02")(d.value/1000000000000) + "T";;
+                    return formatVolume_2digits(d.value);
                 });
         }
 
@@ -209,13 +234,14 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
             var r_country_map = {};
             var p_country_map = {};
             var commodity_map = {};
-
+            var total_volume = 0;
             for (var index = 0; index < data.length; index++) {
                 var yr = parseInt(data[index].Y);
                 // Check Year is in selected range.
                 if (yr >= begin_year && yr <= end_year) {
                     //console.log("Yr in range: " + yr);
-                    
+                    total_volume += parseInt(data[index].V);
+
                     // Update reporting country map.
                     rt = data[index].RT;
                     updateMap(r_country_map, rt, IdToCountry);
@@ -228,7 +254,18 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
                     updateMap(commodity_map, cmd, IdToCommodity);
                 } 
             }
-            console.log("updateAllChartsWithYearRange");
+            // console.log("updateAllChartsWithYearRange");
+            
+            // Update selected years and total trade volume.            
+            var selected_years = begin_year.toString() + " - " + end_year.toString();
+            if (begin_year > end_year) {
+                selected_years = "No Year Selected."
+            }
+            var sel_info_html = "Selected Year Range: <b>" + selected_years + "</b>" +
+                                "<br>" +
+                                "Total Trade Volume: <b>" + formatVolume_4digits(total_volume) + "</b>"; 
+            d3.select("#selection_info").html(sel_info_html);
+
             updateOneChart("#top_r_cc", r_country_map);
             updateOneChart("#top_p_cc", p_country_map);
             updateOneChart("#top_cmd", commodity_map);  
@@ -237,8 +274,9 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
         chartTimeline.onBrushed(function(selected) {
             //console.log(selected);
             /* Add / substrct 0.1 to accomodate the boundaries */
-            var begin_year = selected[0] - 0.1;
-            var end_year = selected[1] + 0.1;
+            var begin_year = Math.floor(selected[0] + 0.8);
+            var end_year = Math.floor(selected[1] + 0.2); 
+            // update selected years.
             updateAllChartsWithYearRange(begin_year, end_year);
             //console.log(begin_year + " $$$$ " + end_year);  
             
@@ -253,7 +291,7 @@ function drawCharts(reporting_country, partner_country, commodity, trade_type) {
         }); 
 
         // Init call to draw default charts */
-        updateAllChartsWithYearRange(0, 2020);
+        updateAllChartsWithYearRange(1988, 2019);
     });  // end of d3.json(...)
 }
 

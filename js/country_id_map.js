@@ -169,7 +169,7 @@ const IdToCountry = {
     566: "Nigeria",
     579: "Norway",
     512: "Oman",
-    490: "Other Asia, nes",
+    /* 490: "Other Asia, nes", */
     586: "Pakistan",
     585: "Palau",
     591: "Panama",
@@ -244,7 +244,7 @@ const IdToCountry = {
     858: "Uruguay",
     850: "US Virgin Isds",
     842: "USA",
-    841: "USA (before 1981)",
+    /* 841: "USA (before 1981)", */
     860: "Uzbekistan",
     548: "Vanuatu",
     862: "Venezuela",
@@ -253,7 +253,7 @@ const IdToCountry = {
     887: "Yemen",
     894: "Zambia",
     716: "Zimbabwe",
-    975: "ASEAN"
+    /*975: "ASEAN" */
 };
 
 // Invert the map.

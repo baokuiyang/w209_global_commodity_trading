@@ -12,8 +12,8 @@ function timeSeriesChart() {
     onBrushed = function () {};
 
   function chart(selection) {
-    console.log("In chart(): ");
-    console.log(selection);
+    //console.log("In chart(): ");
+    //console.log(selection);
 
     selection.each(function(data) {
       //console.log(data);
@@ -29,7 +29,7 @@ function timeSeriesChart() {
       // Update the x-scale.
       xScale
           .domain(d3.extent(data, function(d) { return d[0]; }))
-          .range([15, width - margin.left - margin.right + 15]);
+          .range([15, width - margin.left - margin.right]);
 
       // Update the y-scale.
       yScale
@@ -67,16 +67,21 @@ function timeSeriesChart() {
       // Update the x-axis.
       g.select(".x.axis")
           .attr("transform", "translate(0," + yScale.range()[0] + ")")
-          .call(d3.axisBottom(xScale).ticks(16).tickFormat(d3.format("d")).tickSize(0, 0).tickPadding(10));
+          .call(d3.axisBottom(xScale).ticks(34).tickFormat(d3.format("d")).tickSize(0, 0).tickPadding(10));
 
       // Update the y-axis.
       g.select(".y.axis")
           .attr("transform", "translate(15," + 0 + ")") 
-          .call(d3.axisLeft(yScale).ticks(4).tickFormat(function(d) {return d3.format("$")(d) + "T";}));
+          .call(d3.axisLeft(yScale).ticks(4).tickFormat(function(d) { 
+              if (d < 0.01 ) {
+                  return d3.format("$.02")(d * 1000) + "B";
+              }   
+              return d3.format("$.02")(d) + "T";})
+          );
 
       g.select(".brush").call(d3.brushX()
         .extent([
-          [15,0],
+          [15, -10],
           [xScale.range()[1], yScale.range()[0] + 10]
         ])
         .on("brush", brushed)
@@ -95,7 +100,7 @@ function timeSeriesChart() {
   function brushStart() {
      // Select the whole range to remove the filter.
      var selection = [xScale.invert(0), xScale.invert(width - margin.left - margin.right)]; 
-     console.log(xScale);
+     //console.log(xScale);
      onBrushed(selection); 
   }
 

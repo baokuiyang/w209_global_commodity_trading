@@ -37,38 +37,72 @@
             </i>
         </div>
         <div class="tab">
-            <button class="tablinks " onclick="openTab(event, 'GlobalView')">Global View</button>
-            <button class="tablinks" onclick="openTab(event, 'CountryView')">Country View</button>
-            <button class="tablinks" onclick="openTab(event, 'CommodityView')">Commodity View</button>
-            <button class="tablinks" onclick="openTab(event, 'CountryPairView')">Country Pair View</button>
-            <button class="tablinks active" onclick="openTab(event, 'MicroView')">Micro View</button>
+            <button class="tablinks active" onclick="openTab(event, 'MicroView')">Overview</button>
+            <button class="tablinks" onclick="openTab(event, 'CountryView')">Insights By Country</button>
+            <button class="tablinks" onclick="openTab(event, 'CommodityView')">Insights by Commodity</button>
             <button class="tablinks " onclick="openTab(event, 'AboutView')">About</button>
-        </div>
+        </div> 
 
-        <div id="GlobalView" class="tabcontent "> 
-            <div id="GlobalViewChart">
-                <div class='tableauPlaceholder' id='viz1593927228271' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;Global_View&#47;GlobalView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Global_View&#47;GlobalView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Gl&#47;Global_View&#47;GlobalView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593927228271');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='727px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-            </div>
-        </div>
+        <div id="CountryView" class="tabcontent">  
+            <div class="intro_header">
+                <h4>
+                    <small>
+                        This tab shows the insights for the selected countries. <br>
+                        All charts are connected, you can click
+                         on anyone to drill down the data.                          <br>
+                         <b><i>Please refresh the page in case the charts are not rendered correctly.</i></b> 
 
-        <div id="CountryView" class="tabcontent"> 
-            <div id="CountryViewChart">
-                <div class='tableauPlaceholder' id='viz1593930751808' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_15938977029030&#47;CountryView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Country_View_15938977029030&#47;CountryView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_15938977029030&#47;CountryView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593930751808');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+                    </small>
+                </h4>
+                <br>
             </div>
+
+            <div id="CountryViewChart">  
+                <div class='tableauPlaceholder' id='viz1595658185426' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_Update&#47;CountryView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Country_View_Update&#47;CountryView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Country_View_Update&#47;CountryView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='device' value='desktop'/></object></div>              
+
+                <script type='text/javascript'>          
+                          var divElement = document.getElementById('viz1595658185426');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1377px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);               
+                </script>
+ 
+ 
+                <!--
+                <iframe src="https://public.tableau.com/views/Country_View_Update/CountryView?:language=en&:display_count=y&:origin=viz_share_link&&:embed=true"
+                        width="1000" height="800">   
+                </iframe> 
+                -->
+            </div>  
         </div>
 
         <div id="CommodityView" class="tabcontent"> 
+            <div class="intro_header">
+                <h4>
+                    <small>
+                        This tab shows the insights for the selected commodities. <br>
+                        All charts are connected, you can click on anyone to drill down the data. <br>
+                        <b><i>Please refresh the page in case the charts are not rendered correctly.</i></b> 
+                    </small>
+                </h4>
+                <br>
+            </div>
             <div id="CommodityViewChart">
-                <div class='tableauPlaceholder' id='viz1593930886742' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Commodity_View&#47;CommodityView&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='Commodity_View&#47;CommodityView' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;Commodity_View&#47;CommodityView&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593930886742');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+
+                <div class='tableauPlaceholder' id='viz1595740262475' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;Dashboard2&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CountryPairView&#47;Dashboard2' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;Dashboard2&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='device' value='desktop'/><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                
+
+                <script type='text/javascript'>                    var divElement = document.getElementById('viz1595740262475');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='1000px';vizElement.style.height='827px';} else { vizElement.style.width='100%';vizElement.style.height='1277px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
+ 
             </div>
         </div>
 
-        <div id="CountryPairView" class="tabcontent"> 
-            <div id="CountryPairViewChart">
-                <div class='tableauPlaceholder' id='viz1593932373271' style='position: relative'><noscript><a href='#'><img alt=' ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;country-pair-view&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='site_root' value='' /><param name='name' value='CountryPairView&#47;country-pair-view' /><param name='tabs' value='no' /><param name='toolbar' value='yes' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;Co&#47;CountryPairView&#47;country-pair-view&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en' /><param name='filter' value='publish=yes' /></object></div>                <script type='text/javascript'>                    var divElement = document.getElementById('viz1593932373271');                    var vizElement = divElement.getElementsByTagName('object')[0];                    if ( divElement.offsetWidth > 800 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else if ( divElement.offsetWidth > 500 ) { vizElement.style.width='100%';vizElement.style.height=(divElement.offsetWidth*0.75)+'px';} else { vizElement.style.width='100%';vizElement.style.height='1177px';}                     var scriptElement = document.createElement('script');                    scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';                    vizElement.parentNode.insertBefore(scriptElement, vizElement);                </script>
-            </div>
-        </div>
+ 
         <div id="MicroView" class="tabcontent defaultTab"> 
+            <div class="intro_header">
+                <h4><small>
+                    This is the overview of global trading statistics released by the United Nations. <br>
+                    In the case of <i>"China imports $10B Iron and Steel from USA in 2018"</i>, 
+                    China here is the <b><i>Reporting Country</i></b> and USA is the <b><i>Partner Country</i></b>.
+                </small></h4>
+                <br>
+            </div>
             <div id="MicroViewSelectionArea">
                 <div class="col-xs-12 col-md-2"></div>
                 <div class="col-xs-12 col-md-2">
@@ -91,8 +125,17 @@
             </div>
             <div id="svg_area" class="col-xs-12 col-md-12">
                 <!-- Timeline, take one row --> 
-                <h3><b><small>Trade Volume By Year (brush to select)</small></b></h3>
-                <div id="timeline"></div>  
+                <h3><b><small>Trade volume in US dollar by year (brush to select)</small></b></h3>
+                <br>
+                <!-- Timeline Chart -->
+                <div id="timeline"></div>    
+                
+                <!-- Selected years and trade volume -->
+                <div class="col-xs-12"> 
+                    <div id="selection_info"></div> 
+                </div> 
+
+                <!-- top commodities/countries -->
                 <div class="col-xs-12 col-md-4"> 
                     <b>Top Reporting Countries </b>  
                     <div  id="top_r_cc"></div>
@@ -109,11 +152,62 @@
         </div>
 
         <div id="AboutView" class="tabcontent">
-            <h3>W209 Final Project, Summer 2020</h3>
-            <p><b>How to use the site</b></p>
-            <p>TODO</p>
-            <p><b>About the data</b></p>
-            <p>TODO</p>
+            <h3>W209 Final Project, Summer 2020 
+                <small>
+                    <br> BK (Baokui) Yang, Daniel Luo, Tay Park
+                    <br>{baokui, luodanqi123, taeil.park}@berkeley.edu
+                </small>
+            </h3>
+            
+            <br>
+            <br>
+            <br>
+            <div id="introduction">
+                <p><b>Basic Terms</b></p>
+                  <ul>
+                    <li><p>Reporting Country<br>
+                        The country which reports trading data to the United Nations.</li></p>
+                    <li><p>Partner Country<br>
+                        The partner country of the reporting country, i.e., the other side of the trade. For example, if China reports it imported $100B soybean from the US in 2018, then in this case, China is the reporting country, and US is the partner country. </p></li>
+                    <li><p>Commodity<br>
+                        The category of the commodity, the site only shows the top level commodity categories. </p></li>
+                </ul>
+
+                <br>
+                <p><b>The data is visualized in the following 4 views.</b></p>
+                <ul>
+                    <li><p>Global View <br>
+                        The overview of global trading, which shows the overall trading trend in the past 30 years, the leading countries, etc.
+                        </p>
+                    </li>
+                    <li> <p>Country View <br>
+                        This view shows trading insights about one individually selected country, which includes its total trading value, top traded commodities, top partner countries, etc.</p>
+                    </li>
+                    <li><p>Commodity View <br>
+                        This view shows trading insights about one individually selected commodity category, e.g., the annual total trading volume, countries leading the import/export. </p>
+                    </li>
+                    <li><p>Micro View <br>
+                        In this view, users can drill down the trading statistics all the way to  every combination of {Reporting Country} X {Partner Country} X {Commodity} X {Import/Export} X {Year} </p>
+                    </li>
+                </ul>
+
+                <br>
+                <p>
+                    Most of the graphs are highly interactive, you can click or brush to drill down into the interested time window, country, or commodity.
+                </p>
+    
+                <br>
+                <p><b>Disclaimer</b></p>
+                <p>
+                    The visualization is based on the trading data released by the UN, which may not be complete or contain errors, given not every country is reporting their data to the UN, and not all of them are reporting it accurately.
+                </p>
+
+                <br>
+                <p>
+                    Here is the GitHub Repo with code and more detailed references, for further information, please feel free to contact us at: {baokui, luodanqi123, taeil.park}@berkeley.edu
+                </p>
+ 
+             </div>
         </div>
 
         <!-- Rendering JS -->
